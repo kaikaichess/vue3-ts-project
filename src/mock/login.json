@@ -1,0 +1,8 @@
+[
+  {
+    "msg": "登录成功",
+    "success": true,
+    "token": "admin_token",
+    "username": "admin"
+  }
+]
